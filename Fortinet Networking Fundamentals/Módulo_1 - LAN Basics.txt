@@ -1,0 +1,43 @@
+Mapinha do maroto:
+
+## -> Módulo
+
+** -> Título
+
+* -> Subtítulo
+
+. -> Texto
+
+(Texto solto/informativo) 
+---------------------------------------------------------------------------------------------
+
+
+## LAN, WLAN e WAN
+
+
+**LAN
+.Rede local
+.Conectividade de cabeamento entre dispositivos conectados.
+
+*Composta pelos seguintes componentes
+.Fornece conectividade em tempo integral a serviços locais
+.Conectam dispositivos fisicamente adjacentes, como switches e APs.
+(Os dispositivos conectados podem enviar e receber ao 
+mesmo tempo, na maioria das implementações.)
+
+**WLAN
+.Rede local sem fio
+.Conectividade de radiofrequência entre dispositivos.
+
+
+(LAN  e WAN operam em uma área limitada e permitem que vários 
+usuários tenham acesso a mídia compartilhada de alta largura de banda. Além disso
+ambas são controladas privadamente sob administração local e fornecem às 
+corporações muitos benefícios.)
+
+
+ LANs 
+Em uma LAN,  
+
+
+

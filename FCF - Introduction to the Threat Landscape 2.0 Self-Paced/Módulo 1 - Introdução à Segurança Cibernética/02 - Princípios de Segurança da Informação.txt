@@ -1,0 +1,36 @@
+O InfoSec é guiado por três princípios que formam a tríade CIA, esses pilares são: 
+
+- Confidencialidade: Informações privadas devem ser acessadas apenas por pessoas 
+autorizadas.
+
+- Integridade: A informação deve ser confiável e protegida contra alterações não 
+autorizadas.
+
+- Disponibilidade: Informações devem estar acessíveis para aqueles que têm permissão.
+
+Por outro lado, há a tríade DAD, que representa riscos opostos à CIA:
+
+- Divulgação: Dados confidenciais são expostos para pessoas não autorizadas.
+
+- Alteração: Modificações nos dados os tornam pouco confiáveis.
+
+- Negação: Usuários autorizados são impedidos de acessar informações.
+
+Para proteger contra esses riscos, ferramentas como firewalls ajudam a manter a tríade 
+CIA intacta e evitar problemas da tríade DAD.
+
+-----------------------------------------------------------------------------------------
+
+O AAA é formado por três termos importantes na segurança da informação, juntos eles 
+formam uma estrutura que controla o acesso a recursos, aplica políticas e monitora o uso 
+de sistemas, sendo essencial para a segurança cibernética. Os termos são:
+
+- Autenticação: Identifica e verifica a identidade de um usuário, conferindo se as 
+credenciais (como nome de usuário e senha) correspondem às informações armazenadas.
+
+- Autorização: Define o que um usuário pode acessar, permitindo ou negando acesso a 
+determinadas áreas ou dados do sistema.
+
+- Contabilidade: Registra e monitora as atividades dos usuários, incluindo tempo de 
+acesso, dados transferidos, e serviços utilizados. Esses registros ajudam na auditoria, 
+análise de comportamento e até em faturamento. 

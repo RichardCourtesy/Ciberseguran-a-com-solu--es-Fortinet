@@ -1,0 +1,47 @@
+Segurança cibernética é a prática de proteger redes, dispositivos e informações digitais 
+contra acessos não autorizados e danos. Ela busca garantir a confidencialidade,
+integridade e disponibilidade dos dados. Profissionais de segurança cibernética procuram 
+falhas e corrigem vulnerabilidades em redes, sistemas e dispositivos.
+
+A segurança cibernética É dividida em cinco áreas principais: 
+
+- infraestrutura crítica 
+- aplicativos 
+- redes
+- nuvem 
+- Internet das Coisas (IoT)
+
+Outras organizações podem categorizar esses 
+tipos de segurança de maneira diferente, mas o objetivo é sempre proteger sistemas e 
+informações digitais.
+
+-----------------------------------------------------------------------------------------
+
+Segurança da informação (ou InfoSec) é o conjunto de práticas, ferramentas e processos 
+usados para proteger informações, seja no formato digital ou físico, contra ataques e 
+ameaças. Isso inclui prevenir, detectar e resolver problemas que possam afetar 
+informações sensíveis, como dados importantes, documentos de RH ou contratos legais. 
+A InfoSec organiza essas informações de acordo com sua importância, definindo quais 
+precisam de proteção e classificando-as em níveis como confidencial, secreto ou 
+ultrassecreto, que requerem controles cada vez mais rigorosos.
+
+Um aspecto da InfoSec é a segurança de sistemas de informação, que foca na proteção de 
+sistemas e redes contra acessos não autorizados, mudanças, destruição ou bloqueios de 
+acesso. Essa segurança abrange dispositivos e locais onde as informações são 
+armazenadas ou transmitidas, tanto em formato digital quanto físico. Em resumo, a 
+segurança de sistemas de informação é parte da InfoSec, e a segurança cibernética, por 
+sua vez, é um subconjunto da segurança de sistemas de informação.
+
+-----------------------------------------------------------------------------------------
+
+Para proteger a infraestrutura cibernética, algumas medidas são fundamentais. A primeira 
+é investir em educação, já que o erro humano é uma das principais causas de falhas em 
+redes e sistemas. Orientar as pessoas, tanto no trabalho quanto em casa, a pensar antes 
+de clicar e identificar tentativas de ataques, como phishing, é essencial para reduzir 
+riscos.
+
+Outra defesa importante é ter um plano de recuperação de desastres e realizar backups 
+regulares. Manter esses backups de forma segura e offline permite que, em caso de perda ou 
+corrupção de dados, ou ataques de ransomware, os dados sejam restaurados rapidamente, 
+minimizando prejuízos e interrupções.
+

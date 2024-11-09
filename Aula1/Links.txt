@@ -1,0 +1,15 @@
+## Sites:
+
+Credly
+https://www.credly.com/earner/dashboard
+
+Fortinet Training
+https://training.fortinet.com/my/
+
+## VM:
+VMware Workstation 17 Player
+
+## iso:
+ubuntu-22.04.2-desktop-amd64
+
+escolher opção Linux

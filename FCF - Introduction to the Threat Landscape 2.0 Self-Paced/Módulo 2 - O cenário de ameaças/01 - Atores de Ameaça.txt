@@ -1,1 +1,117 @@
-aqdqa
+Um "mau ator" é uma pessoa que tenta roubar, sabotar ou bloquear o acesso a sistemas e 
+informações autorizadas. Esses criminosos têm diferentes motivações, como lucro, vingança 
+ou simples curiosidade, o que influencia seus métodos de ataque. Eles não formam um grupo 
+único; podem ser encontrados em qualquer lugar e podem ser qualquer pessoa, como alguém 
+configurando um Wi-Fi falso em uma cafeteria ou um funcionário insatisfeito que acessa 
+dados corporativos.
+
+Existem diferentes tipos de maus atores, incluindo:
+
+- Exploradores: que investigam sistemas sem necessariamente causar danos;
+
+- Hacktivistas: motivados por causas ideológicas;
+
+- Ciberterroristas: que buscam causar caos e medo;
+
+- Cibercriminosos: focados em roubo e ganhos financeiros;
+
+- Ciberguerreiros: geralmente ligados a governos e com objetivos estratégicos.
+
+Esses perfis ajudam a entender o caráter e os métodos comuns dos criminosos virtuais.
+
+-----------------------------------------------------------------------------------------
+
+EXPLORADOR:
+
+É um tipo de "mau ator" cujo principal objetivo é ganhar notoriedade, 
+explorando falhas em sistemas sem necessariamente causar danos graves. Eles podem, por 
+exemplo, alterar uma página de um site para demonstrar suas habilidades.
+
+Um método comum usado tanto por exploradores quanto por outros criminosos é o phishing, no 
+qual enganam as pessoas para que revelem informações pessoais. Um ataque de phishing 
+clássico envolve e-mails de fontes falsas que aparentam ser legítimas e urgentes, levando 
+a vítima a clicar em um link para um site falso. Esse site, semelhante ao real, coleta 
+informações da vítima, como nome de usuário e senha, sem que ela perceba. Outras variantes 
+incluem:
+
+- Spear phishing: e-mails direcionados a uma pessoa ou grupo específico;
+
+- Smishing e Vishing: golpes por SMS ou chamadas de voz.
+
+Esses métodos se aproveitam da confiança e distração das vítimas para roubar suas 
+informações.
+
+-----------------------------------------------------------------------------------------
+
+HACKTIVISTAS:
+
+São "maus atores" motivados por causas ideológicas, ao contrário dos exploradores que 
+agem por vaidade. Eles atuam coletivamente contra alvos que consideram prejudiciais, como 
+empresas ou organizações políticas, mas mantêm anonimato e são grupos fragmentados.
+
+Uma tática comum dos hacktivistas é criar uma botnet, usando um servidor de comando e 
+controle (C&C) para coordenar uma rede de computadores infectados com malware. Esses 
+computadores "zumbis" recebem instruções para enviar um grande volume de mensagens ao 
+alvo, gerando um ataque de negação de serviço distribuído (DDoS). Esse tipo de ataque 
+sobrecarrega o servidor alvo, tirando-o do ar. Como eles não têm infraestrutura própria 
+para um ataque, os hacktivistas precisam controlar milhares de computadores de terceiros.
+
+-----------------------------------------------------------------------------------------
+
+CIBERTERRORISTAS:
+
+Assim como hacktivistas, são movidos por ideologia, mas seu objetivo é mais amplo e 
+destrutivo: intimidar e desestabilizar uma sociedade. Eles visam atacar infraestruturas 
+críticas, como redes de energia e usinas nucleares, conhecidas como tecnologias 
+operacionais, para causar impactos graves.
+
+Sem apoio governamental, ciberterroristas geralmente precisam obter recursos de forma 
+clandestina. Diferente dos hacktivistas, eles operam de maneira estruturada e coesa, como 
+um exército virtual. Além de ataques DDoS, uma de suas táticas preferidas é o spear 
+phishing, em que identificam e enganam uma pessoa com altos privilégios de rede para obter
+acesso e causar danos.
+
+-----------------------------------------------------------------------------------------
+
+CIBERCRIMINOSOS:
+
+Seu objetivo claro é direto: obter dinheiro. Eles usam métodos como phishing, roubo de 
+identidade, clonagem de cartões de crédito e ransomware (malware que bloqueia acesso a 
+sistemas até o pagamento de um resgate).
+
+Grupos de cibercriminosos podem ter múltiplas motivações e colaborar com outros tipos de 
+criminosos, como ciberterroristas ou ciberguerreiros. Um exemplo é o ataque de 2021 à 
+Colonial Pipeline, em que acredita-se que cibercriminosos tenham agido com o apoio do país
+onde estavam, mostrando uma colaboração entre cibercriminosos e ciberguerreiros.
+
+-----------------------------------------------------------------------------------------
+
+CIBERGUERREIROS: 
+
+São criminosos virtuais que agem em nome dos interesses nacionais de um país, com acesso a
+grandes recursos de um estado-nação. Eles podem realizar espionagem, extorsão e ataques a 
+infraestruturas críticas, variando suas ações entre operações secretas e ataques diretos.
+
+Uma de suas estratégias é explorar vulnerabilidades chamadas "exploits de dia zero", 
+falhas desconhecidas no software que permitem ataques antes que o fornecedor possa corrigir
+o problema. Para isso, ciberguerreiros conduzem pesquisas detalhadas sobre sistemas e 
+aplicativos comuns, mantendo essas falhas em segredo até o momento do ataque.
+
+-----------------------------------------------------------------------------------------
+
+Existem diferentes tipos de hackers, cada um representado por uma cor que indica seu 
+comportamento:
+
+- White hat: hackers éticos que testam redes com autorização para encontrar vulnerabilidades
+e corrigir falhas.
+
+- Black hat: hackers que invadem sistemas com intenções maliciosas, visando lucro ou 
+destruição.
+
+- Grey hat: hackers que agem sem permissão, mas sem a intenção de causar danos graves, 
+parecidos com exploradores.
+
+- Blue hat: hackers contratados externamente para realizar testes de segurança antes de 
+sistemas serem lançados, visando detectar vulnerabilidades.
+
+- Essas categorias ajudam a entender as diferentes intenções e práticas dos hackers.

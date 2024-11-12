@@ -1,0 +1,57 @@
+Para se proteger contra ataques cibernéticos, existem estruturas que ajudam a entender, 
+classificar e responder a esses ataques, como a Cyber Kill Chain da Lockheed Martin e o 
+MITRE ATT&CK. Essas estruturas organizam o conhecimento sobre as táticas e técnicas dos 
+invasores, ajudando a identificar estágios de ataque e a desenvolver estratégias de 
+defesa. Elas são especialmente úteis para lidar com ameaças persistentes avançadas 
+(APTs), que são ataques prolongados e sofisticados. Essas ferramentas são essenciais para 
+profissionais de segurança cibernética fortalecerem a segurança das organizações.
+
+-----------------------------------------------------------------------------------------
+
+
+A Cyber Kill Chain, criada pela Lockheed Martin em 2011, é uma estrutura amplamente usada 
+para entender ataques cibernéticos. Ela divide o ataque em sete etapas:
+
+1 - Reconhecimento: onde o invasor coleta informações sobre o alvo. Depois, na fase de 
+
+2 - Armamentização: ele cria um código malicioso, como um vírus ou trojan, para entregar 
+ao alvo, frequentemente disfarçado de arquivo comum. 
+
+3 - Entrega: o invasor envia o código, geralmente por e-mail de phishing ou explorando 
+uma falha em um site. 
+
+4 - Exploração: ele usa esse código para obter acesso ao sistema-alvo.
+
+5 - Instalação: o invasor estabelece uma presença no sistema, instalando softwares 
+maliciosos para garantir o acesso contínuo.
+
+6 - Comando e controle: ele cria uma forma de comunicação remota com o sistema 
+comprometido. 
+
+7 - exfiltração: o invasor extrai os dados ou ativos desejados, como 
+informações confidenciais.
+
+Essa estrutura ajuda a identificar cada fase do ataque e a 
+desenvolver estratégias de defesa.
+
+Embora o modelo da Lockheed Martin tenha avançado a compreensão dos ataques, ele tem 
+limitações, pois assume que todos os ataques vêm de fora da rede e não considera 
+totalmente ameaças internas. Essas limitações estimularam o desenvolvimento de outras 
+estruturas para melhorar a defesa contra ataques cibernéticos.
+
+-----------------------------------------------------------------------------------------
+
+A MITRE ATT&CK é uma estrutura desenvolvida para classificar e descrever ataques 
+cibernéticos, oferecendo uma linguagem e abordagem comum para entender e combater essas 
+ameaças. Diferente da Cyber Kill Chain, a MITRE ATT&CK organiza as técnicas de ataque em 
+categorias, como "Acesso Inicial" e "Evasão de Defesa", detalhando as táticas específicas 
+usadas por invasores para comprometer sistemas e manipular dados.
+
+A principal vantagem dessa matriz é padronizar a comunicação e análise de ameaças, 
+permitindo que organizações trabalhem juntas de forma mais eficaz na prevenção e resposta 
+a ataques. Ela também ajuda na identificação e priorização das ameaças mais críticas, 
+além de oferecer uma visão ampla das táticas e métodos dos invasores, auxiliando 
+profissionais de segurança a projetarem defesas mais eficazes.
+
+
+

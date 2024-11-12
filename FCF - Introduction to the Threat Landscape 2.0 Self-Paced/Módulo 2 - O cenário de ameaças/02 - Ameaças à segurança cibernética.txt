@@ -1,0 +1,79 @@
+Uma ameaça à segurança cibernética é uma ação que explora uma vulnerabilidade, causando 
+dano a um sistema ou rede. Essas ameaças são executadas por maus atores que utilizam 
+"vetores de ataque" — métodos para invadir ou prejudicar sistemas.
+
+Um vetor de ataque tem três partes: 
+
+1 - A vulnerabilidade: (fraqueza que é explorada)
+
+2 - O mecanismo: (ferramenta, como malware, usada no ataque) 
+
+3 - O caminho: (rota usada, como e-mail). 
+
+Exemplos: 
+
+- um e-mail falso leva um usuário a abrir um documento malicioso; nesse caso, o 
+usuário é a vulnerabilidade, o malware é o mecanismo, e o e-mail é o caminho.
+
+- Uma pessoa autorizada permite que um mau autor entre na sala de servidores ao acreditar 
+em sua história convincente. Lá dentro, ele instala malware em um servidor por meio de um 
+dispositivo USB. Nesse caso, a vulnerabilidade é a pessoa autorizada e o servidor 
+desprotegido; o malware é o mecanismo, e o acesso foi conseguido com uma história 
+persuasiva. A porta e o USB são os caminhos do ataque.
+
+Vetores de ataque podem envolver engenharia social (convencendo alguém), além de 
+falhas técnicas, como má configuração de sistemas. Às vezes, um ataque inclui múltiplos 
+passos, formando um "caminho de ataque" — uma sequência planejada de ações explorando 
+várias vulnerabilidades para alcançar o objetivo final.
+
+-----------------------------------------------------------------------------------------
+
+As ameaças à segurança cibernética podem ser divididas em quatro tipos principais:
+
+- Engenharia social: Manipulação psicológica para enganar alguém a revelar informações 
+confidenciais, ganhando a confiança e forçando uma ação.
+
+- Malware: Software criado para danificar, interromper ou acessar sistemas sem 
+autorização.
+
+- Acesso não autorizado: Pode ser físico, como "tailgating" (seguir alguém em um local 
+restrito), ou digital, como observar as credenciais de alguém.
+
+- Falha de design de sistema: Vulnerabilidades em sistemas que permitem acesso não 
+autorizado. Cada categoria apresenta métodos diferentes, e um ataque pode envolver uma ou 
+mais dessas estratégias.
+
+-----------------------------------------------------------------------------------------
+
+Os vetores de ataque são métodos usados para explorar vulnerabilidades, e muitas vezes 
+combinam técnicas diferentes para alcançar seu objetivo. Um exemplo é o ataque DDoS 
+(negação de serviço distribuído), que sobrecarrega um servidor com pedidos simultâneos, 
+após o agente mal-intencionado infectar milhares de computadores, geralmente por meio de 
+phishing.
+
+Outras variações de phishing incluem:
+
+- Whale phishing: Focado em alvos importantes, como executivos, com e-mails personalizados 
+para enganá-los.
+
+- Spearphishing: Envia e-mails específicos com links ou anexos que instalam malware 
+(como cavalos de Troia) para acessar e infectar outros computadores da rede.
+
+Esses métodos são usados para comprometer redes em múltiplos estágios, aproveitando 
+acessos privilegiados para expandir o ataque.
+
+-----------------------------------------------------------------------------------------
+
+Os vetores de ataque podem ser usados tanto para ganhar acesso inicial (pré-exploração) 
+quanto durante o ataque em si (pós-exploração). Phishing, por exemplo, explora a 
+confiança humana para entrar em sistemas, enquanto ataques como DDoS e ransomware atuam 
+após o acesso ser obtido.
+
+Outros métodos incluem:
+
+- Ataque de aniversário: Explora fraquezas em algoritmos de hash (usados para senhas) 
+durante a fase de pré-exploração.
+
+- Força bruta: Tenta adivinhar senhas, explorando a possibilidade de senhas fracas.
+Medidas de defesa, como políticas de senhas fortes, ajudam a neutralizar ataques como o 
+de força bruta.

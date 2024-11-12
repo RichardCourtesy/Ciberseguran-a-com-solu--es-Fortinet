@@ -1,0 +1,76 @@
+Inteligência de ameaças é o conhecimento sobre perigos cibernéticos, baseado em 
+evidências, que fornece contexto e orientações para ajudar organizações a responderem a 
+essas ameaças. Para ser útil, deve ser relevante, acionável e contextual. 
+
+Por exemplo: Uma informação sobre um vírus que afeta o macOS só é relevante como 
+inteligência de ameaças para organizações que usam produtos Apple.
+
+-----------------------------------------------------------------------------------------
+
+Para ser útil, a inteligência de ameaças precisa ser acionável e contextual. Isso 
+significa que ela deve fornecer informações detalhadas o suficiente para que uma 
+organização tome medidas de proteção. 
+
+Por exemplo: Saber que um grupo está atacando setores específicos não é suficiente para 
+agir. Contudo, se essa informação incluir detalhes sobre alvos e métodos de ataque, ela 
+se torna acionável e relevante.
+A inteligência também deve estar contextualizada: uma ameaça ao macOS, por exemplo, só é 
+relevante se a organização usa esse sistema, permitindo uma avaliação precisa da ameaça.
+
+-----------------------------------------------------------------------------------------
+
+A inteligência de ameaças pode ser obtida de fontes internas e externas. 
+
+- Fontes internas: Dados como logs de servidores, dispositivos de rede e relatórios de 
+incidentes, que são analisados para identificar ameaças relevantes. 
+
+- Fontes externas: Sites governamentais, que fornecem orientações gerais sobre proteção 
+contra ataques e atualizações sobre golpes em alta.
+
+Também há fontes privadas, como o SANS Institute e FortiGuard, que oferecem informações 
+detalhadas sobre variantes de malware, muitas vezes com classificação de gravidade, 
+ajudando as organizações a priorizar a defesa contra as ameaças mais perigosas.
+
+-----------------------------------------------------------------------------------------
+
+O Common Vulnerability Scoring System (CVSS) é uma ferramenta gratuita e aberta que 
+avalia a gravidade de vulnerabilidades em sistemas de computador, atribuindo uma 
+pontuação de 0 a 10 com base em métricas como facilidade de exploração e impacto nos 
+sistemas. Essa é uma forma de inteligência de código aberto (OSINT), como o MITRE ATT&CK, 
+que fornece informações sobre táticas de ataque. No Brasil, bancos e outros setores 
+compartilham inteligência sobre ameaças entre si, utilizando também ferramentas como 
+Maltego e MISP para colaborar na defesa contra ataques cibernéticos.
+
+-----------------------------------------------------------------------------------------
+
+Para facilitar o compartilhamento de informações sobre ameaças cibernéticas, a comunidade 
+de inteligência usa dois padrões principais: STIX e TAXII. 
+
+- STIX: É uma linguagem estruturada que descreve informações sobre ameaças, incluindo 
+atores, incidentes, indicadores de comprometimento e métodos de ataque, além de recomendar 
+ações de mitigação.
+
+- TAXII: É um protocolo que permite a troca de inteligência de ameaças de maneira 
+padronizada e segura via HTTPS, simplificando o compartilhamento de dados entre 
+organizações ao evitar a necessidade de sistemas personalizados de comunicação.
+
+-----------------------------------------------------------------------------------------
+
+Para transformar dados brutos em inteligência de ameaças utilizável, é essencial seguir 
+um processo estruturado. 
+
+- Primeiro, identifique as ameaças mais relevantes para sua organização, priorizando as 
+mais críticas. 
+
+- Segundo, colete informações de fontes internas e externas.
+
+- Terceiro, processe essas informações focando nas ameaças prioritárias e filtrando dados 
+irrelevantes. 
+
+- Quarto, analise os dados buscando indicadores de comprometimento (IoCs). 
+
+- Quinto, compartilhe suas descobertas com parceiros, usando padrões como STIX e TAXII 
+para facilitar o compartilhamento. 
+
+Por fim, revise continuamente o processo, ajustando a coleta e análise de dados conforme 
+surgem novas ameaças, criando um ciclo contínuo de melhoria.

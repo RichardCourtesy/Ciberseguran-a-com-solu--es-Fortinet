@@ -1,0 +1,69 @@
+O Scareware: 
+
+É um exemplo de ataques de engenharia social menos invasivo, onde um aviso falso sugere 
+que seu computador está infectado por malware e oferece um link para baixar um software 
+antivírus, que na verdade é um malware.
+
+Watering hole:
+
+Um site visitado por um grupo específico de pessoas é comprometido pelos invasores. Isso 
+pode ocorrer também no mundo físico, quando um ator mal-intencionado cria uma situação 
+para estabelecer contato com o alvo, como em filmes, onde o encontro é orquestrado para 
+manipular a pessoa.
+
+-----------------------------------------------------------------------------------------
+
+Honeypot trap: 
+
+Inspirado em táticas de espionagem, esse ataque usa o conceito de "isca" 
+para atrair invasores. Na segurança cibernética, um honeypot é um sistema 
+intencionalmente vulnerável, criado para atrair e enganar invasores, permitindo que 
+analistas estudem suas táticas e fortaleçam a segurança.
+
+Tailgating: 
+
+Este ataque ocorre quando um invasor tenta entrar em um local restrito, 
+seguindo alguém autorizado. O invasor pode pedir ajuda ou usar a cortesia da vítima para 
+passar sem ser notado. Para evitar, é importante verificar o status de segurança de 
+qualquer pessoa desconhecida.
+
+Ambos os ataques envolvem manipulação psicológica para explorar a confiança ou a 
+cortesia da vítima.
+
+-----------------------------------------------------------------------------------------
+
+Os atacantes cibernéticos usam uma combinação de técnicas e ferramentas para atingir seus 
+objetivos, dependendo da situação. À medida que a campanha de ataque avança, os métodos 
+podem evoluir e mudar. Assim como um carpinteiro precisa de várias ferramentas para 
+trabalhar, um invasor cibernético também usa diferentes técnicas, como engenharia social 
+e malware (ransomware, cavalo de Troia, backdoor, worm, bot e ataques de dia zero), para 
+explorar vulnerabilidades e alcançar seus objetivos.
+
+-----------------------------------------------------------------------------------------
+
+Em um ataque de engenharia social bem-sucedido realizado por uma equipe de testes de 
+penetração foi criado uma identidade falsa de uma mulher chamada Emily Williams, com 
+perfis nas redes sociais, como LinkedIn e Facebook, para parecer confiável. Emily foi 
+posicionada como uma nova contratada de uma empresa especializada em segurança 
+cibernética. Em poucas horas, ela fez conexões com funcionários da empresa, obteve 
+ofertas de emprego e até recebeu ajuda para começar rapidamente no trabalho. Como 
+resultado, ela conseguiu acesso a um laptop e à rede da organização, contornando os 
+procedimentos de segurança.
+
+A equipe de penetração continuou o ataque de engenharia social criando um site de Natal, 
+onde postaram um link nas redes sociais de Emily. Ao clicar, as pessoas eram convidadas a 
+executar um applet Java que permitia a equipe obter acesso remoto à rede da organização. 
+Com esse acesso, eles usaram técnicas para obter permissões administrativas, roubar 
+senhas, instalar malwares e acessar documentos confidenciais. Surpreendentemente, até 
+mesmo funcionários de empresas de antivírus e desenvolvedores da organização foram 
+enganados. Isso poderia ter comprometido ainda mais a segurança, incluindo o código-fonte 
+da empresa, dificultando a detecção do ataque.
+
+A equipe de penetração usou informações obtidas no Facebook para enviar um e-mail falso 
+com um cartão de aniversário ao chefe de segurança da informação, o que resultou na 
+infecção do computador dele com malware. Como ele tinha privilégios elevados, isso 
+comprometeu uma parte significativa da rede e informações confidenciais da organização. 
+A equipe também começou atacando funcionários de baixo escalão, como vendedores e 
+contadores, o que ajudou a ganhar confiança e facilitar os ataques a indivíduos de alto 
+escalão, como executivos e técnicos. O sucesso do ataque mostrou que até organizações 
+sofisticadas podem ser vulneráveis a engenharia social.

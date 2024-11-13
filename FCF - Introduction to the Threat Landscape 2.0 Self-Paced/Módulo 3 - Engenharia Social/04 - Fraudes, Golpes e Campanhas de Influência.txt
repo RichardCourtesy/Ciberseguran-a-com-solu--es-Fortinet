@@ -1,0 +1,66 @@
+Fraude cibernética é o uso de técnicas como engenharia social, malware ou outros enganos 
+para obter ganhos financeiros ou pessoais, prejudicando uma pessoa ou organização. Já 
+golpes cibernéticos são fraudes menores, mas ainda assim prejudiciais. Por exemplo, 
+idosos são frequentemente vítimas, perdendo bilhões de dólares anualmente devido à sua 
+maior confiança e economias acumuladas. Tanto fraudes quanto golpes usam métodos e 
+vetores de ataque similares, como visto em lições anteriores.
+
+-----------------------------------------------------------------------------------------
+
+Exemplos de fraudes e golpes cibernéticos incluem:
+
+- Sites governamentais falsos: Criminosos usam phishing para enganar as pessoas e roubar 
+informações como senhas e dados de cartão de crédito.
+
+- Golpes de namoro e romance: Pessoas mal-intencionadas se aproveitam de sites de namoro 
+ou redes sociais para obter informações pessoais ou dinheiro.
+
+- Fraude de férias: Oferecem viagens falsas ou inexistentes para enganar os consumidores.
+
+- Fraude de mandato: Um agente mal-intencionado hackeia transações de e-mail, envia 
+faturas falsas e pede pagamento para suas próprias contas bancárias.
+
+- Pharming: Redireciona o tráfego de sites legítimos para falsos, como sites de compras 
+ou bancos.
+
+- Golpes de cartões comemorativos: Envio de cartões digitais maliciosos, geralmente em 
+datas comemorativas, com o objetivo de roubar informações.
+
+-----------------------------------------------------------------------------------------
+
+Campanhas de influência online são esforços para manipular a opinião pública, geralmente 
+com o objetivo de promover uma narrativa falsa. Esses ataques podem ser realizados por 
+grupos poderosos, incluindo governos. O processo de uma campanha de influência pode 
+ocorrer da seguinte maneira:
+
+1 - O agressor cria contas falsas em redes sociais.
+
+2 - Cria conteúdo para promover uma narrativa.
+
+3 - Publica esse conteúdo nas redes sociais.
+
+4 - Pessoas reais compartilham o conteúdo.
+
+5 - Eventualmente, a mídia de massa amplifica a história.
+
+6 - Essas campanhas são eficazes porque, com baixo custo e esforço, o agressor pode 
+influenciar a opinião de muitas pessoas, operando de forma secreta nas redes sociais.
+
+-----------------------------------------------------------------------------------------
+
+Atacar publicamente alguém pode ter consequências, mas manipular a opinião pública 
+secretamente é mais eficaz e difícil de combater. 
+
+Exemplo: Um dono de restaurante pode usar contas anônimas para espalhar mentiras sobre 
+seu rival, prejudicando a reputação do concorrente sem ser identificado. Se o rival 
+responder, isso pode piorar sua situação. Por outro lado, se a acusação for feita de 
+forma aberta, a vítima pode buscar justiça.
+
+Campanhas de influência também podem ser usadas em "guerra híbrida", onde táticas 
+tradicionais de guerra se misturam com estratégias políticas e cibernéticas, como 
+hacking e disseminação de desinformação. O objetivo é enfraquecer o inimigo sem 
+recorrer à violência direta, criando confusão e divisão.
+
+
+
+

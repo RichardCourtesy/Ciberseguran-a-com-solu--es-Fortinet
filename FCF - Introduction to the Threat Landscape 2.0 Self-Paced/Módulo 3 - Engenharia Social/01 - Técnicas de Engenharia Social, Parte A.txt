@@ -1,0 +1,96 @@
+Engenharia social é uma técnica usada em ataques cibernéticos que explora emoções humanas
+ para manipular uma pessoa a agir ou omitir ações em favor do atacante. Esse tipo de 
+ ataque visa, por exemplo, fazer com que a pessoa revele informações confidenciais ou 
+ transfira dinheiro. Os ataques de engenharia social se destacam por dois aspectos 
+ principais: o manipulador busca alcançar um resultado vantajoso para ele, usando 
+ métodos que apelam para as emoções.
+
+Para identificar um ataque de engenharia social, observe sinais como:
+
+- Apelo emocional forte, explorando medo, curiosidade, culpa, entre outros sentimentos;
+
+- Sensação de urgência para agir rapidamente;
+
+- Tentativa de ganhar a confiança do destinatário.
+
+Se você notar esses sinais em uma mensagem, tome cuidado e evite cair no jogo emocional 
+do atacante.
+
+-----------------------------------------------------------------------------------------
+
+Frank Abagnale é um dos exemplos mais famosos de engenharia social, retratado no filme 
+Catch Me If You Can. Ele conseguiu se passar por médico, advogado e piloto para enganar e 
+obter vantagens das pessoas. Outro exemplo é o ataque de spear phishing de 2011, em que 
+um invasor enviou e-mails com uma planilha do Excel infectada para funcionários de uma 
+empresa de segurança. Quando um deles abriu o anexo, o código malicioso explorou uma 
+falha no Adobe Flash, instalando um backdoor no sistema.
+
+Esses casos mostram como a engenharia social pode usar várias abordagens, seja através de 
+interação direta, como fez Abagnale, ou de ataques digitais, como o phishing.
+
+-----------------------------------------------------------------------------------------
+
+Phishing é um ataque de engenharia social que usa e-mails como meio para tentar enganar 
+qualquer pessoa com um endereço de e-mail, enviando mensagens maliciosas em massa na 
+esperança de que alguém caia na armadilha. Há variantes mais específicas, como spear 
+phishing, que foca em um grupo ou pessoa específica, e whaling, que mira pessoas em cargos 
+altos, como executivos. Essas técnicas geralmente exigem mais pesquisa por parte do 
+invasor e têm o objetivo de roubar dados confidenciais ou obter ganhos financeiros de 
+forma mais direcionada.
+
+-----------------------------------------------------------------------------------------
+
+A principal diferença entre spear phishing e whaling está no perfil dos alvos. No spear 
+phishing, o foco são pessoas de cargos mais baixos, enquanto no whaling, o ataque é 
+direcionado a executivos ou altos escalões de uma organização. Ataques de whaling 
+geralmente envolvem pesquisas detalhadas para personalizar as mensagens e ganhar a 
+confiança dos alvos, já que os invasores podem obter recompensas maiores. Um exemplo 
+notável foi um ataque de whaling a um banco belga, no qual o CEO foi enganado e os 
+invasores roubaram mais de 70 milhões de euros sem serem capturados.
+
+-----------------------------------------------------------------------------------------
+
+Além do e-mail, outras formas de comunicação, como SMS, mensagens instantâneas e 
+ligações, também são usadas para ataques de engenharia social. Smishing é um tipo de 
+phishing que utiliza mensagens SMS para enganar vítimas, enquanto vishing ocorre por 
+chamadas telefônicas. Em um exemplo de vishing, em 2019, o CEO de uma empresa de energia 
+no Reino Unido foi enganado por uma ligação que usava tecnologia de voz por IA para 
+imitar seu chefe. A ligação foi tão convincente que o CEO transferiu US$ 243.000 para a 
+conta dos fraudadores.
+
+-----------------------------------------------------------------------------------------
+
+Esses ataques são semelhantes ao phishing, mas usam diferentes métodos de contato, como 
+redes sociais. Em 2020, um grupo de hackers acessou 130 contas em uma plataforma de mídia 
+social, incluindo contas de celebridades, para solicitar doações em Bitcoin. Em minutos, 
+arrecadaram US$ 110.000. Acredita-se que tenham conseguido acesso enganando funcionários 
+para que revelassem credenciais importantes.
+
+-----------------------------------------------------------------------------------------
+
+Quid pro quo:
+
+Envolve um golpista oferecendo um "serviço" ou ajuda técnica em troca de informações 
+confidenciais, como credenciais de usuário. Esse tipo de ataque pode ser feito por meio 
+de e-mail, mensagens, voz ou até mesmo em uma conversa presencial.
+
+-----------------------------------------------------------------------------------------
+
+Pretexting: 
+
+É uma tática de engenharia social onde o golpista inventa uma história emocional para 
+enganar a vítima. Um exemplo é um telefonema em que o fraudador se passa por policial e 
+alega que o neto da vítima foi preso e está ferido. Outro golpista finge ser o neto, 
+implorando por ajuda. O objetivo é manipular a vítima a enviar dinheiro.
+
+-----------------------------------------------------------------------------------------
+
+
+Baiting:
+ 
+É uma tática de engenharia social que tenta atrair a vítima com promessas ou curiosidade. 
+Pode ser um e-mail ou mensagem oferecendo prêmios ou descontos, ou algo deixado 
+estrategicamente, como um pendrive rotulado com algo interessante 
+("salários de gerentes") em um local público. Quando a vítima conecta o pendrive, um 
+malware é instalado, permitindo o acesso dos invasores ao computador ou à rede da 
+organização.

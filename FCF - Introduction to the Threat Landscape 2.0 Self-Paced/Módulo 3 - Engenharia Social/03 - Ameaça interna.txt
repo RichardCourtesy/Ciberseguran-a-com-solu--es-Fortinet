@@ -1,0 +1,175 @@
+Uma ameaça interna é quando alguém de dentro de uma organização, como um funcionário, 
+ex-funcionário, contratado ou parceiro de negócios, usa seu acesso autorizado para causar 
+danos físicos ou cibernéticos à organização. Embora as empresas se concentrem em ameaças 
+externas, muitas violações de segurança vêm de pessoas dentro da organização. Por isso, 
+as equipes de segurança devem abordar essas ameaças por meio de iniciativas como 
+treinamento de conscientização dos funcionários.
+
+-----------------------------------------------------------------------------------------
+
+As ameaças internas podem ser divididas em duas categorias principais: 
+
+- Negligentes: As negligentes ocorrem quando pessoas cometem erros ou agem com descuido.
+
+- Maliciosas: As maliciosas envolvem intenções prejudiciais, como espionagem, fraude e 
+sabotagem.
+
+As ameaças internas maliciosas podem ser subdivididas em três tipos:
+
+- Lobos solitários: Agem de forma independente. 
+
+- Colaboradores: Trabalham com terceiros para prejudicar a organização.
+
+- Toupeiras: Se passam por pessoas autorizadas para obter acesso à rede, como no 
+exemplo do ataque com a identidade de Emily Williams.
+
+-----------------------------------------------------------------------------------------
+
+A categoria de "insider descuidado" envolve pessoas que, sem querer, ajudam um criminoso. 
+Eles podem cair em ataques como phishing ou outras formas de engenharia social. Dentro 
+dessa categoria, existem dois tipos: 
+
+- Peões: Os peões são usuários que são manipulados por criminosos, como no exemplo do 
+chefe de segurança da informação enganado por um cartão de aniversário digital. 
+
+- Idiotas: são insiders que tomam decisões prejudiciais por ignorância, arrogância ou 
+incompetência, sem intenção maliciosa, mas desrespeitando as normas de segurança.
+
+-----------------------------------------------------------------------------------------
+
+Agentes maliciosos usam diferentes métodos para atacar insiders descuidados, sendo que 
+alguns são ataques físicos. Entre os ataques físicos, temos:
+
+- Tailgating (ou piggybacking): Quando alguém não autorizado segue uma pessoa autorizada 
+para entrar em uma área restrita.
+
+- Shoulder surfing: Observar por cima do ombro de alguém para obter informações.
+
+- Dumpster diving: Procurar informações em lixeiras ou em locais onde dados confidenciais 
+podem ser descartados, como em salas de impressão.
+
+- Eavesdropping: Ouvir conversas para obter informações confidenciais. Digitalmente, 
+esse tipo de ataque ocorre quando um criminoso espiona uma rede vulnerável, roubando 
+dados enquanto eles estão em trânsito, especialmente em redes sem fio, que são mais 
+fáceis de acessar.
+
+-----------------------------------------------------------------------------------------
+
+Dentro dos ataques digitais, há vários métodos para enganar insiders descuidados, como:
+
+Spear phishing: Ataque direcionado, geralmente via e-mail, para enganar a vítima.
+
+Whaling: Phishing direcionado a executivos ou figuras importantes.
+
+Smishing: Phishing via mensagens de texto (SMS).
+
+Vishing: Phishing via chamadas telefônicas.
+
+Pretexting: Enganar alguém criando uma falsa identidade para obter informações.
+
+Watering hole: Ataque em redes sociais, onde o criminoso compromete um site frequentado 
+pelo alvo.
+
+Esses são exemplos de técnicas já mencionadas em lições anteriores. 
+(SÉRIO ??? NEM PERCEBI)
+
+-----------------------------------------------------------------------------------------
+
+Ataques internos podem ser mais difíceis de detectar do que ataques externos, porque os 
+insiders têm acesso e conhecimento sobre a rede. No entanto, existem sinais que podem 
+ajudar a identificar uma ameaça interna. Alguns desses sinais incluem:
+
+- Insatisfação ou rancor contra a organização.
+
+- Empolgação excessiva ao assumir novas tarefas, sem explicação lógica.
+
+- Mudanças significativas no comportamento sem razão aparente.
+
+- Violações das políticas da empresa ou tentativas de contornar a segurança.
+
+Esses comportamentos podem indicar um potencial risco, mas é importante analisar o
+contexto, pois algumas pessoas podem ter uma personalidade mais empreendedora ou 
+proativa.
+
+-----------------------------------------------------------------------------------------
+
+Atividades anormais na rede podem ser sinais de uma possível ameaça interna. Alguns 
+exemplos incluem:
+
+- Acessos em horários incomuns (como às 4 da manhã) ou trabalhar frequentemente até tarde.
+
+- Transferência de grandes quantidades de dados pela rede.
+
+- Acesso a recursos que não são necessários para o trabalho do funcionário.
+
+- Solicitações repetidas de acesso a sistemas irrelevantes para a função do usuário.
+
+- Uso de dispositivos não autorizados, como unidades USB.
+
+- Rastreamento de rede ou busca por informações confidenciais.
+
+- Envio de informações confidenciais por e-mail para fora da organização.
+
+Esses tipos de atividades podem indicar que algo está errado e precisam ser monitorados.
+
+-----------------------------------------------------------------------------------------
+
+
+Para ajudar a manter a segurança da sua organização, siga estas recomendações:
+
+- Conheça e siga as políticas de segurança da organização.
+
+- Evite tomar atalhos nos protocolos de segurança.
+
+- Mantenha suas credenciais de login seguras e não expostas.
+
+- Não permita que pessoas não autorizadas tenham acesso a áreas restritas.
+
+- Armazene documentos confidenciais de forma segura, com criptografia ou proteção física.
+
+- Não desative os controles de segurança e de endpoint.
+
+- Não compartilhe informações confidenciais com pessoas não autorizadas.
+
+- Realize as atualizações de sistema operacional e software assim que elas estiverem 
+disponíveis.
+
+Essas práticas ajudam a fortalecer a segurança cibernética na organização.
+
+-----------------------------------------------------------------------------------------
+
+Para proteger os ativos da sua organização contra ameaças internas, siga estas etapas:
+
+- Identifique e classifique os ativos críticos: Inclua redes, sistemas, dados 
+confidenciais, instalações e pessoas. Priorize os ativos mais importantes para concentrar 
+seus esforços de proteção.
+
+- Use ferramentas de análise: Ferramentas de machine learning (ML) podem ajudar a analisar 
+fluxos de dados e priorizar alertas. Ferramentas de análise comportamental, como UEBA 
+(Análise de Comportamento de Usuário e Evento), podem detectar ameaças internas, 
+analisando padrões de acesso e atividade.
+
+- Monitore atividades críticas: A análise de comportamentos e monitoramento de banco de 
+dados ajuda a identificar violações de segurança e proteger os dados da organização.
+
+Essas ações permitem detectar e prevenir ameaças internas de forma mais eficaz.
+
+-----------------------------------------------------------------------------------------
+
+Para proteger sua organização contra ameaças internas, siga estas recomendações:
+
+- Monitore a atividade do usuário: Implante ferramentas para rastrear e correlacionar 
+atividades de várias fontes. Softwares como o FortiDeceptor criam armadilhas (honeypots) 
+para atrair insiders maliciosos e analisar suas ações.
+
+- Compartilhe informações: Use dados coletados por ferramentas de engano para melhorar 
+a detecção de ataques e reforçar a segurança.
+
+- Defina e documente políticas de segurança: Certifique-se de que todos na organização 
+compreendam as políticas e ofereça treinamento regular, incluindo testes para garantir 
+que todos saibam como cumprir as normas de segurança.
+
+- Crie uma cultura de conscientização sobre segurança: Incentive atitudes responsáveis 
+para combater a negligência e reduzir comportamentos maliciosos.
+
+Essas medidas ajudam a prevenir ataques internos e fortalecem a segurança organizacional.

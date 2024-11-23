@@ -1,0 +1,108 @@
+O Network Access Control (NAC) é uma ferramenta que controla o acesso à rede, 
+identificando e classificando dispositivos automaticamente. Ele verifica se os 
+dispositivos e usuários estão em conformidade com as políticas de segurança, levando em 
+conta fatores como sistema operacional e localização. Muitas soluções NAC usam uma 
+arquitetura centralizada, o que facilita o controle de dispositivos em redes grandes e 
+espalhadas por vários locais.
+
+-----------------------------------------------------------------------------------------
+
+O NAC começou como um método de autenticação e autorização para dispositivos que se 
+conectam à rede, seguindo os padrões IEEE 802.1X. Ele envolve três partes: o dispositivo 
+cliente, o autenticador (como um switch ou ponto de acesso) e o servidor de autenticação. 
+O cliente fornece credenciais (nome de usuário, senha, certificado, etc.) ao 
+autenticador, que as encaminha ao servidor. Se a autenticação for bem-sucedida, o 
+autenticador permite o acesso à rede; caso contrário, bloqueia o dispositivo.
+
+-----------------------------------------------------------------------------------------
+
+Um portal Captive é outro método para controlar o acesso à rede, especialmente em redes 
+públicas. Por exemplo, ao se conectar à rede de uma cafeteria, você pode ser 
+redirecionado para uma página da web onde é necessário concordar com os termos de uso 
+antes de obter acesso à internet.
+
+-----------------------------------------------------------------------------------------
+
+Com o aumento de endpoints nas organizações, como dispositivos pessoais, BYOD 
+(Bring Your Own Devices) e IoT (Internet das Coisas), surgiram desafios para a segurança 
+da rede. Um problema é que os dispositivos que se conectam à rede não são de propriedade 
+da empresa e o departamento de TI não tem controle sobre o que é executado neles, como 
+antivírus ou aplicativos inseguros.
+
+-----------------------------------------------------------------------------------------
+
+Outro desafio são os dispositivos IoT, que possuem sensores e transmitem dados pela 
+internet, aumentando a vulnerabilidade da rede. Esses dispositivos, adquiridos de 
+fornecedores externos, se conectam de volta às redes desses fornecedores para enviar 
+informações sobre o uso e manutenção do produto.
+
+-----------------------------------------------------------------------------------------
+
+As organizações aceitam esse risco porque os dispositivos IoT ajudam a economizar tempo e 
+dinheiro. Por exemplo, uma impressora pode avisar automaticamente o administrador da rede 
+quando o toner estiver baixo, ou até mesmo pedir novos cartuchos.
+
+-----------------------------------------------------------------------------------------
+
+A popularidade dos dispositivos IoT é devido à sua conveniência, mas sua diversidade e 
+falta de padrões, além da dificuldade de protegê-los, tornam-nos um risco para a 
+segurança da rede. Muitos dispositivos IoT não têm capacidade de rodar software de 
+segurança e usam autenticação fraca, como números de série, que, se comprometidos, não 
+podem ser alterados. Sem uma forma eficaz de proteção, esses dispositivos oferecem pouca 
+visibilidade. Felizmente, o NAC (Network Access Control) evoluiu para ajudar a resolver 
+essas vulnerabilidades.
+
+-----------------------------------------------------------------------------------------
+
+Quando o NAC é implementado em uma rede, ele cria perfis de todos os dispositivos 
+conectados. O acesso aos recursos da rede é permitido com base no perfil de cada 
+dispositivo, que é definido pela sua função. Se um dispositivo não tiver um perfil 
+adequado ou definido, ele será bloqueado. Isso é semelhante a conceder acesso a 
+informações confidenciais apenas para quem realmente precisa delas.
+
+-----------------------------------------------------------------------------------------
+
+Por exemplo, o NAC pode permitir que uma câmera IP se conecte a um servidor de gravação 
+de vídeo, mas impedir que ela acesse um servidor financeiro, pois isso não é parte de 
+sua função. O NAC direciona a câmera para a VLAN correta, e o firewall cuida do resto. 
+Isso segmenta a rede de acordo com a função de cada dispositivo. Se um dispositivo for 
+comprometido, o malware só poderá infectar os sistemas aos quais o dispositivo tem 
+permissão para acessar. Portanto, uma câmera IP comprometida poderia infectar o servidor 
+NVR, mas não o servidor financeiro.
+
+-----------------------------------------------------------------------------------------
+
+Isso também se aplica a contratados, parceiros e convidados que precisam acessar a rede 
+de uma organização. Eles são segmentados por perfil e podem acessar áreas seguras, mas 
+são bloqueados de áreas restritas. Para manter a segurança, as políticas de acesso de 
+usuários e dispositivos são ajustadas conforme mudam as pessoas, os dispositivos e as 
+necessidades do negócio.
+
+-----------------------------------------------------------------------------------------
+
+Com o aumento de hotspots Wi-Fi em locais públicos e empresas, o NAC permite gerenciar o 
+acesso temporário de convidados, como em redes Wi-Fi de aeroportos, por meio de um portal 
+de autoatendimento. Ele pode ser integrado à segurança da rede para detectar violações 
+automaticamente, notificar o centro de operações de segurança (SOC) e coordenar com 
+outros dispositivos de segurança para neutralizar a ameaça. O NAC também gera relatórios 
+sobre tentativas de acesso e pode ser integrado com outros produtos de segurança, como 
+switches, usando APIs ou SSH.
+
+-----------------------------------------------------------------------------------------
+
+O controle de acesso à rede (NAC) oferece vários benefícios para as organizações:
+
+- Segurança aprimorada: Ao autenticar usuários e dispositivos ao entrarem na rede, o NAC 
+aumenta a segurança.
+
+- Economia de custos: A automação do rastreamento e proteção de dispositivos reduz a 
+necessidade de recursos de TI.
+
+- Automação: Com o aumento dos dispositivos, o NAC automatiza a autenticação e 
+autorização, tornando o processo mais eficiente.
+
+- Experiência de TI melhorada: O acesso contínuo à rede proporciona uma experiência sem 
+atritos para o usuário.
+
+- Facilidade de controle: O NAC oferece visibilidade contínua de todos os dispositivos 
+autorizados, ajudando na gestão de acessos e no ciclo de vida dos dispositivos.

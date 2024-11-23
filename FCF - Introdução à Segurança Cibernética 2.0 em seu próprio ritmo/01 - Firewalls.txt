@@ -1,0 +1,74 @@
+Com o crescimento e interconexão das redes e sua conexão à internet, surgiu a necessidade
+de controlar o tráfego. Para isso, os firewalls foram criados e evoluíram ao longo do 
+tempo. Eles são divididos em gerações: o firewall sem estado (primeira geração), o 
+firewall com estado (segunda geração), o firewall de terceira geração e o firewall de 
+próxima geração (NGFW).
+
+-----------------------------------------------------------------------------------------
+
+O firewall de primeira geração, ou sem estado, analisa informações básicas como endereços 
+de origem e destino, protocolos e portas. Ele segue regras ordenadas para decidir se 
+permite ou bloqueia pacotes. Se os dados não coincidirem com as regras, o pacote é 
+descartado ou bloqueado.
+
+-----------------------------------------------------------------------------------------
+
+Firewalls sem estado têm limitações, como a necessidade de mais configurações para 
+proteção eficaz e dificuldades em gerenciar certos protocolos, como FTP. Eles usam regras 
+gerais para permitir ou bloquear tráfego, o que pode ser explorado por invasores para 
+enviar pacotes maliciosos ou explorar falhas na rede.
+
+-----------------------------------------------------------------------------------------
+
+O firewall de segunda geração, ou com estado, supera as limitações do sem estado. Ele 
+monitora conexões ao longo do tempo, rastreando dados e comportamentos. Se uma conexão 
+agir de forma suspeita ou o tráfego não corresponder, ela é bloqueada. Pacotes fora de 
+conexões conhecidas são descartados.
+
+-----------------------------------------------------------------------------------------
+
+
+Firewalls com estado não conseguem bloquear tráfego malicioso que usa protocolos 
+permitidos, como HTTP, amplamente usado em diversos tipos de aplicativos. Como o HTTP 
+utiliza a mesma porta, é difícil diferenciar entre usos legítimos e maliciosos. Por isso, 
+os firewalls precisam analisar os dados mais profundamente.
+
+-----------------------------------------------------------------------------------------
+
+Firewalls de terceira geração analisam dados mais profundamente, entendendo protocolos da 
+camada de aplicação, como HTTP, FTP e DNS. Eles diferenciam usos, como navegação, 
+e-commerce e mídias sociais. Firewalls UTM também incluem antivírus, antispam, IPS e VPN 
+para maior proteção.
+
+-----------------------------------------------------------------------------------------
+
+A internet transformou o trabalho, lazer e comércio, ampliando redes com dispositivos 
+móveis e IoT. Isso aumentou a superfície de ataque, enquanto ameaças se tornaram mais 
+sofisticadas, podendo vir de fontes confiáveis, espalhando malware intencionalmente ou 
+sem saber.
+
+-----------------------------------------------------------------------------------------
+
+Firewalls modernos, como o FortiGate, protegem contra ataques cibernéticos em toda a 
+rede, garantindo segurança, confiabilidade e bom desempenho.
+
+-----------------------------------------------------------------------------------------
+
+Um firewall de próxima geração funciona como segurança de aeroporto, verificando pacotes 
+de dados com base em regras para permitir ou bloquear o tráfego.
+
+-----------------------------------------------------------------------------------------
+
+Assim como a segurança do aeroporto verifica malas, um firewall de última geração 
+inspeciona profundamente os pacotes de dados (DPI) para detectar conteúdos maliciosos.
+
+-----------------------------------------------------------------------------------------
+
+Quando um firewall de próxima geração detecta conteúdo malicioso, ele o envia para uma 
+análise em sandbox, semelhante a como a segurança do aeroporto examina malas suspeitas. 
+À medida que as redes e os ataques evoluem, os firewalls também se adaptam, controlando 
+aplicativos e usuários para melhorar a segurança. Eles segmentam redes, o que impede a 
+propagação de ameaças, e usam inteligência artificial para se tornarem mais proativos. 
+Além disso, esses firewalls oferecem alta performance e visibilidade, protegendo data 
+centers híbridos, que têm uma superfície de ataque maior e exigem uma segurança avançada, 
+incluindo a inspeção de dados criptografados e aplicações em nuvens públicas e privadas.
